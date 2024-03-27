@@ -1,4 +1,3 @@
-deploy: https://64d840119f906a55408cc00d--taupe-brigadeiros-066f10.netlify.app/
 
 # Getting Started with Create React App
 
